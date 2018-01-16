@@ -3,7 +3,7 @@
 using namespace std;
 #define X 1000000007
 
-int main3_4_1()
+int main()
 {
     int n ;
     cin >>n;
