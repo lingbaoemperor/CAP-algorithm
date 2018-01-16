@@ -1,4 +1,5 @@
 //有趣的数 2013-12 question 4
+//动态规划
 #include <iostream>
 using namespace std;
 #define X 1000000007
