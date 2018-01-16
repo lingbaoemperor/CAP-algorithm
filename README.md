@@ -1,2 +1,2 @@
 # CAP-algorithm
-CCF-CSP
+CCF-CSP认证部分问题解答
