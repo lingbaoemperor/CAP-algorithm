@@ -80,7 +80,6 @@
 //            int p = s.top();
 //            vins[p] = false;
 //            s.pop();
-////            cout <<p <<" ";
 //            if(p == now)
 //                break;
 //        }
