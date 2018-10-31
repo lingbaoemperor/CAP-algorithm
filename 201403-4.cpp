@@ -1,5 +1,5 @@
-//ÎŞÏßÍøÂç 2014-03 question 4
-//·ÖÖ§ÏŞ½ç
+//æ— çº¿ç½‘ç»œ 2014-03 question 4
+//åˆ†æ”¯é™ç•Œ
 #include <iostream>
 #include <cmath>
 #include <queue>
@@ -72,9 +72,9 @@ public:
     {
         return length > x.length;
     }
-    int i;     //¶¥µã
-    int length; //Â·¾¶³¤¶È, µ½Ô­µãµÄÂ·¾¶³¤
-    int nk;     //ÓÃÁË¶àÉÙĞÂÔöÂ·ÓÉÆ÷
+    int i;     //é¡¶ç‚¹
+    int length; //è·¯å¾„é•¿åº¦, åˆ°åŸç‚¹çš„è·¯å¾„é•¿
+    int nk;     //ç”¨äº†å¤šå°‘æ–°å¢è·¯ç”±å™¨
 };
 
 int main()
