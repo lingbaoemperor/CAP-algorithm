@@ -1,5 +1,5 @@
-//×îÓÅ¹à¸È	2014-12 question 4
-//ciÓĞ¿ÉÄÜÊÇ0£¬ÎÊÌâÊäÈëÌõ¼şµÄbug
+//æœ€ä¼˜çŒæº‰	2014-12 question 4
+//ciæœ‰å¯èƒ½æ˜¯0ï¼Œé—®é¢˜è¾“å…¥æ¡ä»¶çš„bug
 #include <iostream>
 using namespace std;
 #define INF 999999
